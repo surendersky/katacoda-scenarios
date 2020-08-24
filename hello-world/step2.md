@@ -1,7 +1,8 @@
 This is your second step.
 
-## Task
+## Task
 
-This is an example of listing files and running a command
+This is an _example_ of listing files and running a **command**
 
-'ls' {{execute}}
+`ls`{{execute}}
+

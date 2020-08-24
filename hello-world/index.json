@@ -8,6 +8,16 @@
       "title": "Step 1 - Run Command",
       "text": "step1.md"
     }],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  
+  "details": {
     "steps": [{
       "title": "Step 2 - Run Command",
       "text": "step2.md"

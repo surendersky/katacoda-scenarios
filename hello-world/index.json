@@ -23,8 +23,8 @@
   "backend": {
     "imageid": "bash"
   }
-
-
+}
+{
 "title": "Hello World Scenario",
   "description": "Your First Scenario",
   "difficulty": "beginner",

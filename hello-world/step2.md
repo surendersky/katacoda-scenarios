@@ -4,4 +4,4 @@ This is your second step.
 
 This is an example of listing files and running a command
 
-ls {{execute}}
+'ls' {{execute}}
